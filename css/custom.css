@@ -23,7 +23,7 @@ a:hover {
 
 .container {
   margin: auto;
-  max-width: 762px;
+  max-width: 1300px;
   padding: 0 20px; }
 
 @media only screen and (max-width: 767px) {
